@@ -108,14 +108,53 @@ I actively work with and learn cutting-edge AI tooling:
 
 ## 🚀 Featured Projects
 
-| 🔥 Project | Description | Tech Stack |
-|---|---|---|
-| 🐾 [**ResQPet**](https://github.com/Manaskandwal/ResQPet) | A platform to rescue & rehome pets — my dream project | JavaScript, Node.js |
-| *(Add Project 2)* | *(Short description of what it solves)* | *(Tech used)* |
-| *(Add Project 3)* | *(Short description of what it solves)* | *(Tech used)* |
-| *(Add Project 4)* | *(Short description of what it solves)* | *(Tech used)* |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐾 <a href="https://github.com/Manaskandwal/ResQPet">ResQPet</a></h3>
+      <p>A full-stack platform to rescue and rehome pets. My dream project — built to make a real-world difference.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ <a href="https://github.com/Manaskandwal/virtual_fitness_trainer">Virtual Fitness Trainer</a></h3>
+      <p>An AI-powered virtual fitness trainer that uses computer vision to detect and track body movements in real time for workout guidance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-00BCD4?style=flat-square&logo=ai&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/Manaskandwal/Password-Manager">Password Manager</a></h3>
+      <p>A browser extension for secure password management with auto-fill, password generation, strength checking, and encrypted storage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>➕ More coming soon...</h3>
+      <p>Currently building more projects with <strong>LangChain, LangGraph & Agentic AI</strong>. Watch this space! 🤖</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Agentic%20AI-6E40C9?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-> 📌 *Check pinned repositories below for live demos and full details*
+> 📌 *Check pinned repositories below for full details and demos*
 
 ---
 
